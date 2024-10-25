@@ -1,0 +1,66 @@
+
+body{
+    background: url(imagenes/gris.jpg) ;
+}
+.contenedor{
+    width: 965px;
+    background: rgb(255, 255, 255);
+    margin: auto;
+    border-radius: 25px;
+
+}
+.header img{
+    margin-left: 10px;
+}s
+
+.top {
+    margin-top: 30px;
+}
+.menu {
+    float: right;
+}
+ .menu li{
+    display: inline-block;
+ }
+
+ .menu a{
+     color: black;
+     text-decoration: none;
+     padding: 20px;
+ }
+
+ .menu a:hover{
+     background-color: aquamarine;
+ }
+
+ .col {
+     width: 265px;
+     display: inline-block;
+     vertical-align: top;
+     text-align: justify;
+     padding: 20px;
+ }
+ .col h2{
+     color: rgb(255, 0, 13);
+ }
+
+ .row {
+     text-align: center;
+ }
+
+ .footer {
+     overflow: hidden;
+ }
+
+ .footer a{
+     color: black;
+     text-decoration: none;
+ }
+
+ .footer span{
+     float: left;
+     margin-top: 10px;
+     margin-left: 30px;
+       
+ }
+
